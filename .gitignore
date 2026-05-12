@@ -1,0 +1,17 @@
+# 环境变量
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 测试输出
+test/*_生成*
+test/*_实验报告.docx
+
+# 密钥
+*secret*
+*apikey*
+config.json
